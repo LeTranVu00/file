@@ -1,0 +1,29 @@
+D:\New folder (4)\obj\Debug\AppGuiMail.csproj.AssemblyReference.cache
+D:\New folder (4)\obj\Debug\oke.Form1.resources
+D:\New folder (4)\obj\Debug\AppGuiMail.csproj.GenerateResource.cache
+D:\New folder (4)\obj\Debug\AppGuiMail.csproj.CoreCompileInputs.cache
+D:\New folder (4)\bin\Debug\AppGuiMail.exe.config
+D:\New folder (4)\bin\Debug\AppGuiMail.exe.manifest
+D:\New folder (4)\bin\Debug\AppGuiMail.application
+D:\New folder (4)\bin\Debug\AppGuiMail.exe
+D:\New folder (4)\bin\Debug\AppGuiMail.pdb
+D:\New folder (4)\obj\Debug\AppGuiMail.Properties.Resources.resources
+D:\New folder (4)\obj\Debug\AppGuiMail.exe.manifest
+D:\New folder (4)\obj\Debug\AppGuiMail.application
+D:\New folder (4)\obj\Debug\AppGuiMail.exe
+D:\New folder (4)\obj\Debug\AppGuiMail.pdb
+C:\Users\Vu\UngDungGuiMail\bin\Debug\AppGuiMail.exe.config
+C:\Users\Vu\UngDungGuiMail\bin\Debug\AppGuiMail.exe.manifest
+C:\Users\Vu\UngDungGuiMail\bin\Debug\AppGuiMail.application
+C:\Users\Vu\UngDungGuiMail\bin\Debug\AppGuiMail.exe
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.csproj.AssemblyReference.cache
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.exe.config
+C:\Users\Vu\UngDungGuiMail\obj\Debug\oke.Form1.resources
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.Properties.Resources.resources
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.csproj.GenerateResource.cache
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.csproj.CoreCompileInputs.cache
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.exe.manifest
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.application
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.exe
+C:\Users\Vu\UngDungGuiMail\obj\Debug\AppGuiMail.pdb
+C:\Users\Vu\UngDungGuiMail\bin\Debug\AppGuiMail.pdb

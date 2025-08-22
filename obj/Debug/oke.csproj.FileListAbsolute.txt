@@ -1,0 +1,21 @@
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\bin\Debug\oke.exe.config
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\bin\Debug\oke.exe
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\bin\Debug\oke.pdb
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.csproj.AssemblyReference.cache
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.Form1.resources
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.Properties.Resources.resources
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.csproj.GenerateResource.cache
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.csproj.CoreCompileInputs.cache
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.exe
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.pdb
+C:\Users\Cuong Le\Desktop\C# winform\snedmai\oke\oke\obj\Debug\oke.exe.config
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\bin\Debug\oke.exe.config
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\bin\Debug\oke.exe
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\bin\Debug\oke.pdb
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.csproj.AssemblyReference.cache
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.Form1.resources
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.Properties.Resources.resources
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.csproj.GenerateResource.cache
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.csproj.CoreCompileInputs.cache
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.exe
+C:\Users\Vu\AppGuiMail\snedmai\oke\oke\obj\Debug\oke.pdb
